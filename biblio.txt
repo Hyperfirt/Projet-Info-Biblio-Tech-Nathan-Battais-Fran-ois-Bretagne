@@ -1,0 +1,167 @@
+Catégorie science:
+
+
+Discours sur l'origine de l'univers
+Etienne Klein
+n°:4
+emprunt: 0
+
+Blade runner
+Philip Dick
+n°:9
+emprunt: 0
+
+La théorie du chaos
+James Gleick
+n°:14
+emprunt: 0
+
+L'origine des espèces
+Charles Darwin
+n°:19
+emprunt: 0
+
+
+Catégorie science-fiction:
+
+
+Dune
+Frank Herbert
+n°:28
+emprunt: 0
+
+La planète des singes
+Pierre Boulle
+n°:33
+emprunt: 0
+
+Hunger games
+Suzanne Collins
+n°:38
+emprunt: 0
+
+La prophétie des abeilles
+Bernard Werber
+n°:43
+emprunt: 0
+
+Vingt mille lieues sous les mers
+Jules Vernes
+n°:48
+emprunt: 0
+
+
+Catégorie Fantastique:
+
+
+Harry Potter
+Joanne Rowling
+n°:57
+emprunt: 0
+
+Si ça saigne
+Stephen King
+n°:62
+emprunt: 0
+
+Le seigneur des anneaux
+JRR Tolkien
+n°:67
+emprunt: 0
+
+Les fiancés de l'hiver
+Christelle Dabos
+n°:72
+emprunt: 0
+
+Vert emeraude
+Kerstin Gier
+n°:77
+emprunt: 0
+
+
+Catégorie Classique:
+
+
+Les misérables
+Victor Hugo
+n°:86
+emprunt: 0
+
+Madame Bovorie
+Emile Zola
+n°:91
+emprunt: 0
+
+Une vie
+Guy Maupassant
+n°:96
+emprunt: 0
+
+Germinal
+Emile Zola
+n°:101
+emprunt: 0
+
+La peste
+Albert Camus
+n°:106
+emprunt: 0
+
+
+Catégorie Poème:
+
+Les Femmes Fontaine
+Jean de la Fontaine
+n°:114
+emprunt: 0
+
+Alcool
+Guillaume Appolinaire
+n°:119
+emprunt: 0
+
+Le bateau ivre
+Arthur Rimbaud
+n°:56840101000000
+emprunt: 0
+
+L'albatros
+Charles Baudelaire
+n°:129
+emprunt: 0
+
+Clair de lune
+Paul Verlaine
+n°:134
+emprunt:0
+
+
+Catégorie enfant:
+
+
+Tchoupy joue a Call of duty
+Didier jeunesse
+n°:143
+emprunt:0
+
+Martine vend de la cocaïne
+Didier jeunesse
+n°:148
+emprunt:0
+
+Ouioui apprend le consentement
+Didier jeunesse
+n°:153
+emprunt:0
+
+Petit ours brun attaque le Kremlin
+Didier jeunesse
+n°:158
+emprunt:0
+
+Tom Sawyer couche avec sa soeur
+Didier jeunesse
+n°:163
+emprunt:0
+
